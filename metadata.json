@@ -1,0 +1,5 @@
+{
+  "name": "AI Company Blueprint Generator",
+  "description": "An application that takes a company idea and generates a detailed business and technical blueprint using AI, focusing on creating a plan for an AI services company named 'Shin'.",
+  "requestFramePermissions": []
+}
